@@ -1,0 +1,11 @@
+# Java
+*.java linguist-language=Java
+
+# HTML
+*.html linguist-language=HTML
+
+# CSS
+*.css linguist-language=CSS
+
+# JavaScript
+*.js linguist-language=JavaScript
